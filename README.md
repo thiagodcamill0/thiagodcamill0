@@ -18,7 +18,7 @@
   <img width="60" />
 
   <img
-    src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3f9e9b13-9bf9-46d2-b63b-418a60f09f1b/djzon2a-4cc5eeae-1d09-473f-8521-bf88e42a8165.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8zZjllOWIxMy05YmY5LTQ2ZDItYjYzYi00MThhNjBmMDlmMWIvZGp6b24yYS00Y2M1ZWVhZS0xZDA5LTQ3M2YtODUyMS1iZjg4ZTQyYTgxNjUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2m9LAmCQtj6_10W70YCKU9Jj9Zq2qbOkFy9uRn0a6uM"
+    src="https://64.media.tumblr.com/810b51d5a93c797f63b600f7c574b4cd/f4e82496906ef9c4-c8/s540x810/e2ef79ff5017b17a48b383bd15352656e04cc45c.gifv"
     alt="anime gif"
     height="250"
   />
@@ -76,7 +76,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thiagodcamillo/thiagodcamillo/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/thiagodcamill0/thiagodcamill0/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
