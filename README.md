@@ -6,7 +6,7 @@
 
 <h3 align="left">Desenvolvedor Full Stack</h3>
 
-<div align="center">
+<p align="center">
   <a href="https://open.spotify.com/user/thiagocamillo">
     <img
       src="https://spotify-recently-played-readme.vercel.app/api?user=thiagocamillo&count=5"
@@ -14,15 +14,13 @@
       height="250"
     />
   </a>
-
-  <img width="60" />
-
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://64.media.tumblr.com/810b51d5a93c797f63b600f7c574b4cd/f4e82496906ef9c4-c8/s540x810/e2ef79ff5017b17a48b383bd15352656e04cc45c.gifv"
+    src="./anime.webp"
     alt="anime gif"
     height="250"
   />
-</div>
+</p>
 
 ###
 
