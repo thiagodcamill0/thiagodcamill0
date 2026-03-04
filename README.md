@@ -11,14 +11,14 @@
     <img
       src="https://spotify-recently-played-readme.vercel.app/api?user=thiagocamillo&count=5"
       alt="Spotify recently played"
-      height="250"
+      width="360"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="30" />
   <img
     src="./anime.webp"
     alt="anime gif"
-    height="250"
+    width="360"
   />
 </p>
 
