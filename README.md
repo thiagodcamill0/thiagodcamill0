@@ -6,26 +6,39 @@
 
 <h3 align="left">Desenvolvedor Full Stack</h3>
 
-<table>
-  <tr>
-    <td align="left" valign="top" width="50%">
-      <a href="https://open.spotify.com/user/thiagocamillo">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=thiagocamillo&count=5" alt="Spotify recently played" />
-      </a>
-    </td>
-    <td align="right" valign="top" width="50%">
-      <img width="260" src="https://i.pinimg.com/736x/3d/2a/ac/3d2aac3eb3aa326b0399aae55c85ce72.jpg" alt="space image" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://open.spotify.com/user/thiagocamillo">
+    <img
+      src="https://spotify-recently-played-readme.vercel.app/api?user=thiagocamillo&count=5"
+      alt="Spotify recently played"
+      height="250"
+    />
+  </a>
+
+  <img width="60" />
+
+  <img
+    src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3f9e9b13-9bf9-46d2-b63b-418a60f09f1b/djzon2a-4cc5eeae-1d09-473f-8521-bf88e42a8165.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8zZjllOWIxMy05YmY5LTQ2ZDItYjYzYi00MThhNjBmMDlmMWIvZGp6b24yYS00Y2M1ZWVhZS0xZDA5LTQ3M2YtODUyMS1iZjg4ZTQyYTgxNjUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2m9LAmCQtj6_10W70YCKU9Jj9Zq2qbOkFy9uRn0a6uM"
+    alt="anime gif"
+    height="250"
+  />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="40" alt="whatsapp logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo" />
+  <a href="https://www.linkedin.com/in/SEU-USUARIO/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/SEU-USUARIO/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo" />
+  </a>
+  <a href="https://wa.me/55SEUNUMERO">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="40" alt="whatsapp logo" />
+  </a>
+  <a href="mailto:SEUEMAIL@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo" />
+  </a>
 </div>
 
 ###
@@ -62,7 +75,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/thiagodcamillo/thiagodcamillo/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/thiagodcamillo/thiagodcamillo/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
