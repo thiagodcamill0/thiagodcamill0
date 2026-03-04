@@ -7,36 +7,18 @@
 <h3 align="left">Desenvolvedor Full Stack</h3>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/thiagocamillo">
-    <img
-      src="https://spotify-recently-played-readme.vercel.app/api?user=thiagocamillo&count=5"
-      alt="Spotify recently played"
-      width="360"
-    />
-  </a>
+  <a href="https://open.spotify.com/user/thiagocamillo"><img src="https://spotify-recently-played-readme.vercel.app/api?user=thiagocamillo&count=5" alt="Spotify recently played" width="360" /></a>
   <img width="30" />
-  <img
-    src="./anime.webp"
-    alt="anime gif"
-    width="360"
-  />
+  <img src="./anime.webp" alt="anime gif" width="360" />
 </p>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/SEU-USUARIO/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo" />
-  </a>
-  <a href="https://wa.me/55SEUNUMERO">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="40" alt="whatsapp logo" />
-  </a>
-  <a href="mailto:SEUEMAIL@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo" />
-  </a>
+  <a href="https://www.linkedin.com/in/SEU-USUARIO/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo" /></a>
+  <a href="https://www.instagram.com/SEU-USUARIO/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo" /></a>
+  <a href="https://wa.me/55SEUNUMERO"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="40" alt="whatsapp logo" /></a>
+  <a href="mailto:SEUEMAIL@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo" /></a>
 </div>
 
 ###
