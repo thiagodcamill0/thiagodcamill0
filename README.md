@@ -33,5 +33,5 @@ I have experience developing new features, maintaining and refactoring legacy sy
 ###
 
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=blue&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=dark" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=blue&reversal=true&fontSize=70&fontColor=363636&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=dark" />
 </div>
