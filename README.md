@@ -6,20 +6,23 @@ I'm a Full Stack Developer focused on building web and mobile solutions, automat
 
 I have experience developing new features, maintaining and refactoring legacy systems, integrating APIs and third-party services, writing clean and well-documented code, creating automated and manual tests, and collaborating with design, product, and QA teams. I also enjoy working on UI/UX, automation workflows, and scalable solutions that connect software with real business needs.
 
-
-  
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=dark" />
 </div>
 
 ###
 
-
-
-<p align="center">
-  <a href="https://open.spotify.com/user/thiagocamillo"><img src="https://spotify-recently-played-readme.vercel.app/api?user=thiagocamillo&count=5" alt="Spotify recently played" height="220" /></a>
-  <img width="30" />
-  <img src="./giphy2.gif" alt="anime gif" height="220" />
-</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://open.spotify.com/user/thiagocamillo">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=thiagocamillo&count=5" alt="Spotify recently played" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="./giphy2.gif" alt="anime gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ###
 
