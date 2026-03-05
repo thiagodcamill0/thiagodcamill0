@@ -9,9 +9,6 @@ I have experience developing new features, maintaining and refactoring legacy sy
 </div>
 
 ###
-
-<h3 align="left">Desenvolvedor Full Stack</h3>
-
 <p align="center"><a href="https://open.spotify.com/user/thiagocamillo"><img src="https://spotify-recently-played-readme.vercel.app/api?user=thiagocamillo&count=5&width=700" alt="Spotify recently played" height="220" /></a>&nbsp;&nbsp;&nbsp;<img src="./giphy2.gif" alt="anime gif" height="220" /></p>
 
 ###
