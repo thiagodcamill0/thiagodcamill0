@@ -5,7 +5,7 @@ I'm a Full Stack Developer focused on building web and mobile solutions, automat
 I have experience developing new features, maintaining and refactoring legacy systems, integrating APIs and third-party services, writing clean and well-documented code, creating automated and manual tests, and collaborating with design, product, and QA teams. I also enjoy working on UI/UX, automation workflows, and scalable solutions that connect software with real business needs.
 
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=110&section=header&theme=dark" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=blue&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=dark" />
 </div>
 
 ###
