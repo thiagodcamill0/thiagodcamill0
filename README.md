@@ -9,7 +9,7 @@ I have experience developing new features, maintaining and refactoring legacy sy
 </div>
 
 ###
-<p align="right"><a href="https://open.spotify.com/user/thiagocamillo"><img src="https://spotify-recently-played-readme.vercel.app/api?user=thiagocamillo&count=5&width=600&border_radius=60" alt="Spotify recently played" height="220" /></a>&nbsp;&nbsp;&nbsp;<img src="./giphy2.gif" alt="anime gif" height="220" /></p>
+<p align="center"><a href="https://open.spotify.com/user/thiagocamillo"><img src="https://spotify-recently-played-readme.vercel.app/api?user=thiagocamillo&count=5&width=600&border_radius=60" alt="Spotify recently played" height="220" /></a>&nbsp;&nbsp;&nbsp;<img src="./giphy2.gif" alt="anime gif" height="220" /></p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/SEU-USUARIO/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo" /></a>
