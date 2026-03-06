@@ -29,9 +29,3 @@ I have experience developing new features, maintaining and refactoring legacy sy
 <div align="center">
   <img src="https://raw.githubusercontent.com/thiagodcamill0/thiagodcamill0/output/snake.svg" alt="Snake animation" />
 </div>
-
-###
-
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=blue&reversal=false&fontSize=70&fontColor=363636&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=dark" />
-</div>
