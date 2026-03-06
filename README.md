@@ -1,4 +1,4 @@
-# Hi, I'm Thiago Camillo 👋
+# Hi, I'm Thiago
 
 I'm a Full Stack Developer focused on building web and mobile solutions, automations, and system integrations. I work with technologies like React, TypeScript, JavaScript, HTML, CSS, PHP, Python, C#, .NET, Node.js, PostgreSQL, MySQL, and Docker.
 
