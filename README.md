@@ -1,8 +1,9 @@
 # Hi, I'm Thiago
 
-I'm a Full Stack Developer focused on building web and mobile solutions, automations, and system integrations. I work with technologies like React, TypeScript, JavaScript, HTML, CSS, PHP, Python, C#, .NET, Node.js, PostgreSQL, MySQL, and Docker.
+I'm a Full Stack Developer with experience building web and mobile applications, automations, and system integrations. I work across the full development cycle, from creating new features to maintaining and improving existing systems, always focusing on performance, scalability, and clean architecture.
 
-I have experience developing new features, maintaining and refactoring legacy systems, integrating APIs and third-party services, writing clean and well-documented code, creating automated and manual tests, and collaborating with design, product, and QA teams. I also enjoy working on UI/UX, automation workflows, and scalable solutions that connect software with real business needs.
+My background includes working with React, TypeScript, JavaScript, HTML, CSS, PHP, Python, C#, .NET, Node.js, PostgreSQL, MySQL, and Docker. I also have experience integrating APIs and third-party services, writing maintainable code, testing applications, and collaborating closely with design, product, and QA teams to deliver reliable and user-focused solutions.
+
 
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=blue&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=dark&gap=20" />
